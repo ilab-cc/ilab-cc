@@ -1,12 +1,3 @@
-   _____             _        _          _ 
-  / ____|           | |      | |        | |
- | |     ___  _ __ | |_ __ _| |__   ___| |
- | |    / _ \| '_ \| __/ _` | '_ \ / _ \ |
- | |___| (_) | | | | || (_| | |_) |  __/ |
-  \_____\___/|_| |_|\__\__,_|_.__/ \___|_|
-
------------------------------------------------
-
 # Welcome to My Profile!
 
 I'm a software developer with a focus on web and mobile application development. I have experience developing with programming languages such as JavaScript, Python, and Java.
@@ -28,7 +19,7 @@ I'm a software developer with a focus on web and mobile application development.
 
 - Email - [email protected]
 - LinkedIn - linkedin.com/in/ilab
-- Website - ilab.cc
+- Website - https://ilab.cc
 
 Feel free to contact me if you have any questions or would like to collaborate on interesting projects!
 
