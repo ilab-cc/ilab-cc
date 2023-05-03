@@ -4,9 +4,9 @@ I'm a software developer with a focus on web and mobile application development.
 
 ## Latest Projects
 
-- **Project 1** - Description of project 1
-- **Project 2** - Description of project 2
-- **Project 3** - Description of project 3
+- **Project 1** - Games
+- **Project 2** - e-commerce
+- **Project 3** - online game app
 
 ## Skills
 
